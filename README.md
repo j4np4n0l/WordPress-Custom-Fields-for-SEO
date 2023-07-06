@@ -17,6 +17,8 @@ Here's how you can add the custom fields:
 
 4. Update or publish the page or post.
 
+5. Place the code from <b><a href="https://github.com/j4np4n0l/WordPress-Custom-Fields-for-SEO/blob/main/WordPress%20Custom%20Fields%20for%20SEO.php" target="_blank">WordPress Custom Fields for SEO.php</a></b> file in Child Theme's <b>functions.php</b>
+
 Now, when the page or post is viewed, the code will retrieve the values from the custom fields (<b>custom_meta_title, custom_meta_description, custom_meta_keywords</b>) instead of the default post title, excerpt, and manually defined keywords.
 
 Please note that you should be cautious while modifying template files and working with custom fields. Make sure to test and validate the output to ensure the meta tags are correctly rendered in the HTML header.
